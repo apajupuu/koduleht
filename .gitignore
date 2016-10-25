@@ -1,6 +1,16 @@
-<<<<<<< HEAD
-id_rsa.txt
-=======
-id_rsa.txt
->>>>>>> 6c1a2649df62b710defdb5612de1d8d32ca07a15
-authorized_keys
+# Tekstiredaktorite mudru
+*~
+*.swp
+*.bak
+*.tmp
+ 
+# Java projekti jaoks:
+build/
+*.class
+ 
+# Python projekti jaoks:
+*.pyc
+ 
+# C/C++ programmi jaoks:
+*.so
+*.o
